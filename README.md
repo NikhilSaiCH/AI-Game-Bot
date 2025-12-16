@@ -37,7 +37,7 @@ ai-game-bot
 
 To run the AI game bot, execute the following command:
 ```
-python src/bot.py
+python npm start
 ```
 
 The bot will start a Flask web server, and you can interact with it through the following endpoints:
